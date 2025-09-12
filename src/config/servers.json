@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name" : "DBC Database",
+      "Group": "Server Group 1",
+      "Port": 5432,
+      "Username": "dbcAdmin",
+      "Host": "postgres",
+      "SSLMode": "prefer",
+      "MaintenanceDB": "dbc_db"
+    }
+  }
+}
